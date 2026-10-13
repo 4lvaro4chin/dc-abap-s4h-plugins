@@ -1,0 +1,16 @@
+{
+  "name": "dc-abap-s4h-plugins",
+  "owner": {
+    "name": "Digital Core Pro"
+  },
+  "metadata": {
+    "description": "Plugins de desarrollo ABAP para SAP S/4HANA de Digital Core Pro"
+  },
+  "plugins": [
+    {
+      "name": "dc-abap-s4h",
+      "source": "./plugins/dc-abap-s4h",
+      "description": "Estándares, nomenclatura y patrones de programación ABAP para SAP S/4HANA (reportes ALV, pantallas de selección, entregables y agente programador)."
+    }
+  ]
+}

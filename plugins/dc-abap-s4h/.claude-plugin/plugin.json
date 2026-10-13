@@ -1,0 +1,9 @@
+{
+  "name": "dc-abap-s4h",
+  "version": "1.0.0",
+  "description": "Estándares, nomenclatura y patrones de programación ABAP para SAP S/4HANA de Digital Core Pro.",
+  "author": {
+    "name": "Digital Core Pro"
+  },
+  "keywords": ["sap", "abap", "s4hana", "alv", "clean-core"]
+}
